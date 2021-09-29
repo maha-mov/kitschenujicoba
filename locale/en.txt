@@ -1,0 +1,32 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = KITSCHEN
+
+## Media
+
+### Title
+panorama_2031F30C_2F7A_8FE5_41B9_E8BDFC6E3F78.label = space
+panorama_241DAA93_2F66_7EE3_4184_DA1362DBF5BE.label = space2
+video_21543A36_2F69_FE25_41AD_A7F8E7A24123.label = maha_1
+video_2194EEFC_2F7F_9625_41C4_662364EC55A7.label = Black hole teleport effect with green screen
+video_36F67B7E_2FF9_BE25_41A1_186CB37E0958.label = lightning effect green screen
+video_3C305D3D_2FA9_FA26_41B5_FEFE1978519C.label = GAJAH FUFUK
+video_3D06B0AE_2F6B_8A22_41C6_99583DE24792.label = QmeFiSfyXANffdSoUYUC5jN4oapnv9vkNUGKrBNy4YH4D4
+video_3F9C5A3D_2F6E_7E26_41A0_BE504E350643.label = QmNZS6xd2nh6pLHCd4GDfkskie9mNe6AcB7UjoaFABRnaa
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_3B17EF29_2FA6_B62E_4184_1ED30E997C8B.url = https://www.hicetnunc.xyz/objkt/341460
+PopupWebFrameBehaviour_3BB33D47_2FA6_BA63_41C5_698C932E1B15.url = https://www.hicetnunc.xyz/objkt/338781
+PopupWebFrameBehaviour_3BC5D1E3_2FAA_8A23_41B8_43A962337AB8.url = https://www.hicetnunc.xyz/objkt/308764
+PopupWebFrameBehaviour_3CC524CD_2FAA_8A66_41C0_7738A1DB33E8.url = https://www.hicetnunc.xyz/objkt/207954
+PopupWebFrameBehaviour_3CCE2F57_2FA9_9663_4198_274C1FC0A405.url = https://www.hicetnunc.xyz/objkt/206846
+PopupWebFrameBehaviour_3E654FC9_2F9A_966F_41A2_0D883A9F8143.url = https://www.hicetnunc.xyz/objkt/331716
+PopupWebFrameBehaviour_3F6571B3_2F69_8A22_41C5_3320EE38F109.url = https://www.hicetnunc.xyz/objkt/128086
+PopupWebFrameBehaviour_3F805BDA_2F67_9E62_41B9_270EAA07DC87.url = https://www.hicetnunc.xyz/objkt/133435
