@@ -10,8 +10,8 @@ tour.name = KITSCHEN
 ## Media
 
 ### Title
-panorama_2031F30C_2F7A_8FE5_41B9_E8BDFC6E3F78.label = space
-panorama_241DAA93_2F66_7EE3_4184_DA1362DBF5BE.label = space2
+panorama_3E12C0C8_30D2_7306_41BF_364C95123CE3.label = space2
+panorama_3EF5BA05_30D1_F70F_41C3_FF36B8CB5EF9.label = space
 video_21543A36_2F69_FE25_41AD_A7F8E7A24123.label = maha_1
 video_2194EEFC_2F7F_9625_41C4_662364EC55A7.label = Black hole teleport effect with green screen
 video_36F67B7E_2FF9_BE25_41A1_186CB37E0958.label = lightning effect green screen
